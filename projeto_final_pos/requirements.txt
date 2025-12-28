@@ -1,0 +1,13 @@
+pandas
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+gradio
+ollama
+python-dotenv
+pyyaml
+pytest
+pytest-cov
+pydantic
+uvicorn[standard]
